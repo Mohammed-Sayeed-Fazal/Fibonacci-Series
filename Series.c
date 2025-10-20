@@ -1,3 +1,4 @@
+//This program is written by Mohammed Sayeed Fazal
 #include<stdio.h>
 int main()
 {
